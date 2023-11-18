@@ -11,11 +11,14 @@ Quantum Natural Language Processing (Quantum NLP) has emerged as a pioneering fi
 The primary goal of this project is to demonstrate the power of Quantum NLP in high-level sentence classification tasks and compare its performance with classical methods. Leveraging the inherent parallelism and information processing capabilities of quantum systems, this project aims to achieve improved accuracy and efficiency in classifying sentences based on their semantic meaning.
 
 ### The Team:
-1. Dhruv Sachdeva
-2. Hussein Shiri
-3. Kiran Kaur
-4. Maksym Husarov
-5. Rishi Koushik Reddy Thippireddy
+
+| Name                             | LinkedIn                                                         | GitHub                                       |
+| ----------------                 | ---------------------------------------------------------------- | -------------------------------------------- |
+| Dhruv Sachdeva                   | [LinkedIn](https://in.linkedin.com/in/dhruv-sachdeva-480274266)  | [GitHub]()                                   |
+| Hussein Shiri                    | [LinkedIn](https://lb.linkedin.com/in/hussein-shiri)             | [GitHub](https://github.com/hosen20)         |
+| Kiran Kaur                       | [LinkedIn](https://www.linkedin.com/in/kiran-kaur-b2922622a/)    | [GitHub](https://github.com/KyranKaur)       |
+| Maksym Husarov                   | [LinkedIn]()                                                     | [GitHub]()                                   |
+| Rishi Koushik Reddy Thippireddy  | [LinkedIn](https://www.linkedin.com/in/rishikoushik)             | [GitHub]()                                   |
 
 ### How the project is organized:
 This project contains 4 folders and 1 pdf:
