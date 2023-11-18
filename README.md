@@ -3,7 +3,7 @@
 ## <p align="center">Quantum NLP for High-Level Sentence Classification</p>
 
 ![image](img1.png)
-
+![image](img.png)
 ### Introduction:
 Quantum Natural Language Processing (Quantum NLP) has emerged as a pioneering field at the intersection of quantum computing and natural language processing. It harnesses the unique properties of quantum systems to enhance the capabilities of traditional NLP techniques. This project aims to explore the potential of Quantum NLP in high-level sentence classification, employing both Classical and Quantum Pipelines, and to contribute novel features to the NLP landscape.
 
